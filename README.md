@@ -5,5 +5,7 @@ This scrip install's theas programs
 
 1 neofetch,
 ani-cli,
-mpv and
-steam
+mpv,
+steam,
+kde and
+lite dm
