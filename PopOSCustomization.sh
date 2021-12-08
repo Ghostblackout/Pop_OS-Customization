@@ -12,10 +12,11 @@ sudo apt-get install lightdm -y
 sudo apt install neofetch -y
 sudo apt install mpv -y
 sudo apt install steam
+sudo apt install tilix
 git clone https://github.com/pystardust/ani-cli.git
 cd ani-cli
 sudo make
 
 clear
 
-sudo restart
+sudo shutdown -r
