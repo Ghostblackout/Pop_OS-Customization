@@ -20,4 +20,4 @@ sudo make
 
 clear
 
-sudo shutdown -r
+sudo shutdown now -r
