@@ -7,5 +7,6 @@ This scrip install's theas programs
 ani-cli,
 mpv,
 steam,
+axel,
 kde and
 lite dm
