@@ -16,6 +16,8 @@ sudo apt install mpv -y
 sudo apt install steam
 sudo apt install tilix
 sudo apt install axel
+sudo apt-get remove --purge libreoffice*
+sudo apt install libreoffice-writer -y
 cd ..
 git clone https://github.com/pystardust/ani-cli.git
 cd ani-cli
