@@ -2,7 +2,7 @@
 
 clear
 sudo apt update
-sudo apt full-upgrade
+sudo apt full-upgrade -y
 
 #this prat install's kde plasma and lightdm
 
